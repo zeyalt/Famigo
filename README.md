@@ -19,7 +19,7 @@ Famigo is an AI-powered companion designed to help families in Singapore discove
 *   **FAISS:** For efficient vector similarity search.
 *   **PyMuPDFLoader:** For loading PDF documents.
 *   **RecursiveCharacterTextSplitter:** For efficient document chunking.
-*   **SQLite:** For database management (`company.db`, `events.db`).
+*   **SQLite:** For database management.
 
 ## How to Run
 
